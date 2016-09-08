@@ -1,0 +1,2 @@
+# _registry
+Theme registry.
