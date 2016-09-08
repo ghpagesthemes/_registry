@@ -33,4 +33,13 @@
   demo_url:     http://ghpagesthemes.github.io/concise/
   author:       Michael Shick
   thumbnail:    default.png
-  license:      The Unlicense    
+  license:      The Unlicense   
+- 
+  title:        Foundation
+  description:  The very comprehensive Zurb Foundation
+  github:       ghpagesthemes/foundation
+  branch:       master
+  demo_url:     http://ghpagesthemes.github.io/foundation/
+  author:       Michael Shick
+  thumbnail:    default.png
+  license:      The Unlicense     
