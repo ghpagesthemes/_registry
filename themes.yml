@@ -1,0 +1,36 @@
+- 
+  title:        Default
+  description:  The basic, blank theme. No frameworks installed.
+  github:       ghpagesthemes/default
+  branch:       master
+  demo_url:     http://ghpagesthemes.github.io/default/
+  author:       Michael Shick
+  thumbnail:    default.png
+  license:      The Unlicense
+- 
+  title:        Bootstrap 4
+  description:  A theme set-up for development with Bootstrap v4.
+  github:       ghpagesthemes/bootstrap4
+  branch:       master
+  demo_url:     http://ghpagesthemes.github.io/bootstrap4/
+  author:       Michael Shick
+  thumbnail:    default.png
+  license:      The Unlicense
+- 
+  title:        Bootswatch (w/ Bootstrap 3)
+  description:  Bootstrap v3 at the core, with a layer of Bootswatch applied.
+  github:       ghpagesthemes/bootswatch
+  branch:       master
+  demo_url:     http://ghpagesthemes.github.io/bootswatch/
+  author:       Michael Shick
+  thumbnail:    default.png
+  license:      The Unlicense  
+- 
+  title:        Concise
+  description:  Using the elegant, minimal, Concise.css
+  github:       ghpagesthemes/concise
+  branch:       master
+  demo_url:     http://ghpagesthemes.github.io/concise/
+  author:       Michael Shick
+  thumbnail:    default.png
+  license:      The Unlicense    
